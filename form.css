@@ -1,0 +1,27 @@
+/*** 余白/配置等 ***/
+* {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(237, 237, 237);
+}
+
+.input{
+  margin: 10px;
+  
+}
+
+.label{
+  margin: 10px 0px;
+}
+
+.input textarea{
+  width: 100%;
+}
+
+.submit{
+  text-align: center;
+}
+
+.image{
+  width: 100px;
+}
